@@ -20,7 +20,7 @@ CineArm 为闭源软件。本仓库仅提供安装包和版本说明，不公开
 
 ## 配套模型
 
-- **[机械臂法兰相机转接板](https://makerworld.com.cn/zh/models/3162541-ji-jie-bi-fa-lan-xiang-ji-zhuan-jie-ban#profileId-3727934)**：配套的相机安装转接模型；下载、打印和安装说明以 MakerWorld 页面为准，不包含在 CineArm 软件安装包中。
+- **[机械臂法兰相机转接板](https://makerworld.com.cn/zh/models/3162541-ji-jie-bi-fa-lan-xiang-ji-zhuan-jie-ban#profileId-3727934)**：适配 Nova5、CR5/CR5A 和 CR10/CR10A。3MF 仅供参考，建议下载 STEP 文件并使用嘉立创 6061 铝合金 CNC 加工，以保证结构强度；M6 螺丝过长时请更换较短规格。模型不包含在 CineArm 软件安装包中。
 
 ## 版本说明
 
