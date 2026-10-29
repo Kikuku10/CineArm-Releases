@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "platforms": {
     "macos": {
-      "version": "0.1.45",
-      "notes": "# CineArm 0.1.45\n\n## 修复\n\n- 修复编辑轨迹后姿态、路径和时间关系可能丢失或错位的问题。\n- 修复分段、停止点与反向运动交界处的时间边界不一致问题。\n\n## 优化\n\n- 优化速度曲线和关键帧调整后的轨迹重计时，保留原始编辑意图。\n- 优化 FreeD 预览输出与轨迹预览的一致性。\n",
-      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.45"
+      "version": "0.1.46",
+      "notes": "# CineArm 0.1.46\n\n## 修复\n\n- 修复外部输入接管时的状态协调问题，并保留跟焦与光学编辑结果。\n- 修复运动点位编辑可能被误触发的问题，改为明确开始后再进入调整。\n- 修复部分运行错误提示难以定位的问题。\n\n## 优化\n\n- 优化 Nova5、CR5、CR10/CR10A 的运动实验默认参数。\n- 优化 Windows 相机配对流程。\n- 新增 Mac、Windows、iPad 的应用内更新检查。\n",
+      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.46"
     },
     "windows": {
-      "version": "0.1.45",
-      "notes": "# CineArm 0.1.45\n\n## 修复\n\n- 修复编辑轨迹后姿态、路径和时间关系可能丢失或错位的问题。\n- 修复分段、停止点与反向运动交界处的时间边界不一致问题。\n\n## 优化\n\n- 优化速度曲线和关键帧调整后的轨迹重计时，保留原始编辑意图。\n- 优化 FreeD 预览输出与轨迹预览的一致性。\n",
-      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.45"
+      "version": "0.1.46",
+      "notes": "# CineArm 0.1.46\n\n## 修复\n\n- 修复外部输入接管时的状态协调问题，并保留跟焦与光学编辑结果。\n- 修复运动点位编辑可能被误触发的问题，改为明确开始后再进入调整。\n- 修复部分运行错误提示难以定位的问题。\n\n## 优化\n\n- 优化 Nova5、CR5、CR10/CR10A 的运动实验默认参数。\n- 优化 Windows 相机配对流程。\n- 新增 Mac、Windows、iPad 的应用内更新检查。\n",
+      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.46"
     },
     "ipad": {
-      "version": "0.1.45",
-      "notes": "# CineArm 0.1.45\n\n## 修复\n\n- 修复编辑轨迹后姿态、路径和时间关系可能丢失或错位的问题。\n- 修复分段、停止点与反向运动交界处的时间边界不一致问题。\n\n## 优化\n\n- 优化速度曲线和关键帧调整后的轨迹重计时，保留原始编辑意图。\n- 优化 FreeD 预览输出与轨迹预览的一致性。\n",
-      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.45"
+      "version": "0.1.46",
+      "notes": "# CineArm 0.1.46\n\n## 修复\n\n- 修复外部输入接管时的状态协调问题，并保留跟焦与光学编辑结果。\n- 修复运动点位编辑可能被误触发的问题，改为明确开始后再进入调整。\n- 修复部分运行错误提示难以定位的问题。\n\n## 优化\n\n- 优化 Nova5、CR5、CR10/CR10A 的运动实验默认参数。\n- 优化 Windows 相机配对流程。\n- 新增 Mac、Windows、iPad 的应用内更新检查。\n",
+      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.46"
     }
   }
 }
