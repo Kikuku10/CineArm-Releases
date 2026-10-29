@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "platforms": {
+    "macos": {
+      "version": "0.1.45",
+      "notes": "# CineArm 0.1.45\n\n## 修复\n\n- 修复编辑轨迹后姿态、路径和时间关系可能丢失或错位的问题。\n- 修复分段、停止点与反向运动交界处的时间边界不一致问题。\n\n## 优化\n\n- 优化速度曲线和关键帧调整后的轨迹重计时，保留原始编辑意图。\n- 优化 FreeD 预览输出与轨迹预览的一致性。\n",
+      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.45"
+    },
+    "windows": {
+      "version": "0.1.45",
+      "notes": "# CineArm 0.1.45\n\n## 修复\n\n- 修复编辑轨迹后姿态、路径和时间关系可能丢失或错位的问题。\n- 修复分段、停止点与反向运动交界处的时间边界不一致问题。\n\n## 优化\n\n- 优化速度曲线和关键帧调整后的轨迹重计时，保留原始编辑意图。\n- 优化 FreeD 预览输出与轨迹预览的一致性。\n",
+      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.45"
+    },
+    "ipad": {
+      "version": "0.1.45",
+      "notes": "# CineArm 0.1.45\n\n## 修复\n\n- 修复编辑轨迹后姿态、路径和时间关系可能丢失或错位的问题。\n- 修复分段、停止点与反向运动交界处的时间边界不一致问题。\n\n## 优化\n\n- 优化速度曲线和关键帧调整后的轨迹重计时，保留原始编辑意图。\n- 优化 FreeD 预览输出与轨迹预览的一致性。\n",
+      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.45"
+    }
+  }
+}
