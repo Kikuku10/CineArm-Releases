@@ -2,6 +2,8 @@
 
 CineArm 用于机械臂拍摄的项目编辑、时间线和节点编排。
 
+**官网：[cinearm.top](https://cinearm.top)**。产品介绍、支持机型、入门指南和授权说明请查看官网。
+
 CineArm 为闭源软件。本仓库仅提供安装包和版本说明，不公开源代码。
 
 **[进入版本下载页](https://github.com/Kikuku10/CineArm-Releases/releases)**
