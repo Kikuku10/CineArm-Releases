@@ -12,9 +12,9 @@
       "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.49"
     },
     "ipad": {
-      "version": "0.1.50",
-      "notes": "# CineArm 0.1.50 · iPad\n\n官网：[cinearm.top](https://cinearm.top) · 产品介绍、入门指南和授权说明。\n\n- 新增中英文界面切换、悬浮双摇杆和世界坐标旋转控制。\n- 优化不同窗口模式下的工作区布局保持。\n- 修复停止后松开摇杆仍残留输入的问题。\n- 修复部分 V4 控制器零速度反馈时的点动判断，完善碰撞恢复和诊断导出。\n\n本次仅更新 iPad。侧载包需使用 Sideloadly / AltStore 等工具重新签名安装，支持 iPadOS 15 及以上。按要求未运行回归测试。\n",
-      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.50"
+      "version": "0.1.49",
+      "notes": "# CineArm 0.1.49\n\n官网：[cinearm.top](https://cinearm.top) · 产品介绍、支持机型、入门指南和授权说明。\n\n## 修复\n\n- 修复自动保存、运行提示归属及部分运行失败后状态未恢复的问题。\n- 修复末端按键回放、拖拽状态切换、暂停继续与轨迹衔接中的状态判断问题。\n- 修复运动故障锁影响正常编辑，以及删除插入关键帧后残留轨迹引用的问题。\n- 修复围绕目标运动时相机朝向对齐和机位重建的问题。\n\n## 优化\n\n- 优化关键帧拖动、时间线追加与轨迹规划，减少重复计算和卡顿。\n- 新增世界坐标平移控制，优化关节点动和沿轨导航。\n- 新增监看快捷控制和机械臂材质切换，更新模型配色与应用图标。\n- 完善负载诊断、运行日志和错误提示，方便定位问题。\n",
+      "url": "https://github.com/Kikuku10/CineArm-Releases/releases/tag/v0.1.49"
     }
   }
 }
